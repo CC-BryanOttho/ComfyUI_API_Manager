@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+
+# Compiled files
+*.pyc
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Dependency directories
+lib/
+lib64/
